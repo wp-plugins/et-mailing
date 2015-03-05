@@ -1,4 +1,4 @@
-=== ET mailing ===
+﻿=== ET Mailing ===
 Contributors: enginethemes
 Tags: mail, mandrill, sendgrid, mailgun
 Donate link: https://www.enginethemes.com/
