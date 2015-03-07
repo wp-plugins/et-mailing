@@ -6,11 +6,11 @@ Requires at least: 4.0
 Tested up to: 4.1
 Stable tag: 1.0.0
 
-Supported by Mailgun and Mandrill – the two famous transaction email services, ET Mailing helps you to send, receive and track emails effortlessly.
+Proudly developed by EngineThemes, ET Mailing integrated with Mandrill and Mailgun helps you to send, receive and track emails effortlessly.
 
 == Description ==
 
-Supported by Mailgun and Mandrill – the two famous transaction email services, ET Mailing helps you to send, receive, track and store emails effortlessly. The emails will have a better chance of appearing in the inbox and if there’s something wrong, you’ll be informed. You’ll always know what has happened to every email.
+Developed by EngineThemes, ET Mailing supports Mandrill and Mailgun – the two famous transaction email services, ET Mailing helps you to send, receive, track and store emails effortlessly. The emails will have a better chance of appearing in the inbox and if there’s something wrong, you’ll be informed. You’ll always know what has happened to every email.
 
 Once ET Mailing is activated, you can easily find it in your dashboard and start setting it up. You can decide the information being displayed in your email as well as enable some features to get the records. The system will keep track how many people have opened your email and whether they click the links on your emails.
 
