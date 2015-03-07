@@ -6,7 +6,7 @@ Requires at least: 4.0
 Tested up to: 4.1
 Stable tag: 1.0.0
 
-Proudly developed by EngineThemes, ET Mailing integrated with Mandrill and Mailgun helps you to send, receive and track emails effortlessly.
+Integrated with Mandrill and Mailgun, ET Mailing helps you to send, receive and track emails effortlessly
 
 == Description ==
 
