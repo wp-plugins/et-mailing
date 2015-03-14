@@ -14,6 +14,8 @@ Developed by [EngineThemes](http://enginethemes.com/), ET Mailing supports Mandr
 
 Once ET Mailing is activated, you can easily find it in your dashboard and start setting it up. You can decide the information being displayed in your email as well as enable some features to get the records. The system will keep track how many people have opened your email and whether they click the links on your emails.
 
+https://www.youtube.com/watch?v=AVuzok6n8v8
+
 == Installation ==
 
 1.	Visit your admin panel, choose Plugin > Add new.
